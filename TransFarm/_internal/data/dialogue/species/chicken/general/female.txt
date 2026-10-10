@@ -1,0 +1,6 @@
+# Female Chicken dialogue.
+# Edit this file independently from the other gender.
+Bawk! ...Pretend you didn't hear that.
+I swear I wasn't always this obsessed with seeds.
+These feathers take forever to straighten.
+I could get used to having wings.

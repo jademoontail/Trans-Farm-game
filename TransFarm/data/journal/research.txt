@@ -1,0 +1,172 @@
+# Trans-Farm Journal — Research
+# Format: [Entry Name] followed by the page text.
+
+[Milking Machine]
+Improves species milk production and Honey production.
+
+Each level multiplies the affected output, making it especially valuable for dairy-focused farms and Honey Bee farms.
+
+[Safety Shears]
+Improves Wool production.
+
+This is especially useful for Sheep-heavy farms and pairs naturally with the Knitting job, which consumes Wool to create Sweaters.
+
+[Nesting Boxes]
+Improves Egg production.
+
+This benefits Female Chickens and Female Dragons and supports the Egg Packing job.
+
+[Scale Polisher]
+Improves Scale production.
+
+Scales are produced by Dragons and are used by Jewelry Crafting to create Jewelry.
+
+[Farm Expansion]
+Improves general farm output.
+
+This is a broad production upgrade that increases output across the farm.
+
+[Apartment]
+Adds one ordinary Farmhand housing slot per level.
+
+The farm starts with one Apartment slot. Managers and the Player do not use Apartment capacity.
+
+Honey Bees housed in Hives and Latex Drones housed in Drone Warehouses do not use Apartment slots until their specialized housing is full.
+
+[Auto Farm]
+Restores automatic harvesting for ordinary Farmhands.
+
+Level 1 automatically farms ordinary Farmhands every 60 seconds. Each level halves the interval until reaching a minimum of once per second.
+
+Auto Farm becomes available after hiring at least one ordinary Farmhand or a non-Player Manager.
+
+[Player Auto-Clicker]
+Automatically harvests the Player character.
+
+Its interval improves as the research level increases, eventually reaching rapid automatic harvesting.
+
+[Man Milk]
+Unlocks the hidden Man Milk resource.
+
+Eligible Male Farmhands can produce Man Milk. Man Milk is used by the Protein Blending job to create Protein Shakes.
+
+[Reading Material]
+A repeatable research project that improves Man Milk production.
+
+Each level gives +10% Man Milk production, up to 10 levels for +100%.
+
+[Demon's Touch]
+A repeatable research project that improves Man Milk generation for Male Farmhands.
+
+Each level adds more Man Milk generation to eligible Male Farmhands.
+
+[Pineapple Treats]
+Improves the value of Protein Shakes.
+
+Once unlocked, Protein Shakes sell for more Credits, making Protein Blending more profitable.
+
+[Live Streaming Cameras]
+Unlocks passive livestream income.
+
+The farm earns Credits per minute for ordinary Farmhands. Farmhands assigned to the Livestreamer job earn additional Credits.
+
+Pretty Uniforms and Support Gear can further improve Livestreamer income for eligible Farmhands.
+
+[Pretty Uniform]
+Unlocks three Pretty Uniform variants: Pink, Blue, and Lavender.
+
+Pretty Uniforms are for ordinary Female Farmhands and provide a strong Livestreamer job bonus.
+
+[Honey Production]
+Unlocks Honey Bees and the Honey resource.
+
+After unlocking this research, Honey Bee transformations become available and eligible Honey Bee Desired Form Volunteers can begin appearing.
+
+It also unlocks access to Hive research and the Honey Bee Queen Manager.
+
+[Farm Drone]
+Unlocks Latex Drone transformations.
+
+After unlocking this research, Male and Female Latex Drones can be created and Latex Drone Desired Form Volunteers can appear.
+
+It also unlocks Drone Warehouse research.
+
+[Drone Warehouse]
+Specialized housing for Latex Drones.
+
+Each Drone Warehouse houses up to 50 Latex Drones without consuming Apartment slots. Additional Warehouses add another 50 specialized slots each.
+
+[Hive]
+Specialized housing for Honey Bees.
+
+Each Hive houses up to 50 Honey Bees without consuming Apartment slots. Additional Hives add another 50 specialized slots each.
+
+[Cow Room]
+A one-time species room upgrade.
+
+Cow Farmhands receive a +50% Happiness bonus while the Cow Room is unlocked.
+
+[Sheep Room]
+A one-time species room upgrade.
+
+Sheep Farmhands receive a +50% Happiness bonus while the Sheep Room is unlocked.
+
+[Goat Room]
+A one-time species room upgrade.
+
+Goat Farmhands receive a +50% Happiness bonus while the Goat Room is unlocked.
+
+[Demon Room]
+A one-time species room upgrade.
+
+Demon Farmhands receive a +50% Happiness bonus while the Demon Room is unlocked.
+
+[Dragon Room]
+A one-time species room upgrade.
+
+Dragon Farmhands receive a +50% Happiness bonus while the Dragon Room is unlocked.
+
+
+
+
+
+[Knitting]
+Unlocks the Knitting job.
+
+Knitting consumes 5 Wool to create 1 Sweater.
+
+[Egg Packing]
+Unlocks the Egg Packing job.
+
+Egg Packing consumes 12 Eggs to create 1 A Dozen Eggs.
+
+[Cheesemaking]
+Unlocks the Cheesemaking job.
+
+Cheesemaking converts species milk into its matching cheese. A cheese recipe becomes available automatically whenever both Cheesemaking and that recipe's source milk are unlocked. Multiple available cheese recipes can be selected at once, but processing speed decreases as more recipes are enabled.
+
+[Protein Blending]
+Unlocks the Protein Blending job.
+
+Protein Blending consumes 2 Man Milk to create 1 Protein Shake.
+
+[Jewelry Crafting]
+Unlocks the Jewelry Crafting job.
+
+Jewelry Crafting consumes 5 Scales to create 1 Jewelry.
+
+[Livestreamer]
+Unlocks the Livestreamer job.
+
+Livestreamers generate additional Credits per minute while Live Streaming Cameras are unlocked. Eligible Pretty Uniforms and Support Gear improve this bonus further.
+
+
+[Human Lactation]
+Research into safe Human milk production. Once unlocked, female Human Farmhands produce Human Milk. If Cheesemaking has also been researched, Human Milk can be crafted into Human Milk Cheese.
+
+[Sheep Dogs]
+Unlocks Male and Female Sheep Dog Farmhands. Sheep Dogs produce Labor, increase the Happiness of all Farmhands by 5%, and increase resource production from Cows, Chickens, Sheep, and Goats by 5%.
+
+
+[Farm Tours]
+Repeatable research that increases the number of Volunteers available in each daily pool by 1 per level.

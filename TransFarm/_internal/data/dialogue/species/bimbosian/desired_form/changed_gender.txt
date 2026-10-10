@@ -1,0 +1,6 @@
+# Desired Form dialogue — Bimbosian — gender changed.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+I cannot stop grinning—my hot alien body is so much better than my old {old_gender_lower} one.
+This is the Bimbosian body I always wanted, and becoming {new_gender_lower} with it feels absolutely perfect.
+Every time I catch my reflection I get excited all over again. I finally look like the Bimbosian {new_gender_lower} I pictured.
+Going from my old {old_gender_lower} body to this gorgeous alien one was the best possible transformation.

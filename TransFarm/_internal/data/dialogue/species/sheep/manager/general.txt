@@ -1,0 +1,3 @@
+{name}: Wool and milk are moving on schedule.
+{name}: Good shearing starts with calm sheep.
+{name}: The wool inventory is looking healthy.

@@ -1,0 +1,3 @@
+{name}: Keep that milk flowing.
+{name}: A steady dairy line keeps the farm healthy.
+{name}: Cow stock is selling well today.

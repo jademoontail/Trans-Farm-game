@@ -1,0 +1,23 @@
+# One last name per line.
+# Blank lines and lines beginning with # are ignored.
+# Add more names, save this file, then restart Trans-Farm.
+Hart
+Vale
+Brooks
+Miller
+Stone
+Rivera
+Fields
+Woods
+Marsh
+Hill
+Bell
+Reed
+Lane
+Fox
+West
+Lake
+Green
+Young
+Clark
+Gray

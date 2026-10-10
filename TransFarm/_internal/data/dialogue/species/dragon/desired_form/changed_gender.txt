@@ -1,0 +1,6 @@
+# Desired Form dialogue — Dragon — gender changed.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+Becoming a dragon was already my dream, and becoming {new_gender_lower} with it feels even more right.
+I left my old {old_gender_lower} body behind and came out a {new_gender_lower} dragon. That is an upgrade I can celebrate.
+The scales and wings are amazing, but seeing myself as {new_gender_lower} makes this form feel complete.
+My dream dragon body came with exactly the gender change I needed. I could not be happier.

@@ -1,0 +1,6 @@
+# Male Demon dialogue.
+# Edit this file independently from the other gender.
+The horns make doorways surprisingly difficult.
+Don't worry. The tail has a mind of its own.
+I promise the glowing eyes are normal.
+I may look intimidating, but I'm still me.

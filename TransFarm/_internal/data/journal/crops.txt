@@ -1,0 +1,36 @@
+# Trans-Farm Journal — Crops
+# A crop page becomes visible after that crop has been harvested at least once.
+# Format: [Entry Name] followed by the page text.
+
+[Hay]
+A staple of many farm animals' diets. Cows and goats especially enjoy this simple, dependable feed.
+
+[Carrots]
+A crisp root vegetable that grows beneath a crown of leafy greens. Sweet, nutritious, and versatile, carrots are delicious fresh, cooked into meals, or used as animal feed.
+
+[Strawberries]
+A sweet, juicy berry that grows on low, leafy plants. Delicious fresh from the field or used in jams, desserts, and other tasty treats.
+
+[Corn]
+A tall, sun-loving crop that produces ears packed with sweet golden kernels. Corn can be eaten fresh, cooked into countless dishes, or processed into useful ingredients and animal feed.
+
+[Pumpkins]
+A sprawling vine that produces plump, hearty gourds perfect for cooking, baking, and seasonal treats. Traditionally a fall favorite, Trans-Farm has figured out the secret to growing pumpkins year-round!
+
+[Meat]
+Meat grown from a plant? Surprisingly, yes—and it's definitely not plant-based! Harvested from the bizarre Vegetable Lamb, this genuine flesh tastes remarkably like red meat, though no one can agree on exactly which kind. It can be cooked into countless dishes anywhere ordinary meat would be used.
+
+[Cloudberries]
+A rare golden berry that thrives in cold tundra and northern bogs, including regions of North America, Sweden, and Norway. Difficult to cultivate under ordinary conditions, its sweet-tart fruit makes an especially delicious jam.
+
+[Dragon Peppers]
+A vibrant fruit with a fiery kick balanced by a surprising sweetness. Its bold flavor and lingering heat have made Dragon Peppers a favorite treat among dragons!
+
+[Bimberries]
+A strange fruit native to the Bimbosian homeworld, recognizable by its unusual mammary-like shape. Some theorize that the same ancient experiments responsible for transforming the Bimbosians into an all-female race also altered this peculiar plant into the form it has today.
+
+[Succuberries]
+Possibly straight from Heck—though no one is quite sure—this strange fruit resembles a stylized female figure, reminiscent of ancient Venus figurines. Sinfully sweet with a peppery bite and a faint sulfurous aroma, Succuberries are an irresistible favorite among demons.
+
+[Mutatoes]
+A purple tuber brimming with mutagenic ingredients. Its vivid flesh and glowing eyes hint at the unstable compounds concentrated beneath its skin.

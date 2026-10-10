@@ -1,0 +1,6 @@
+# Desired Form dialogue — Latex Drone — gender unchanged.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+This drone form is exactly what I wanted. Everything feels simple and right.
+I wanted to be a Latex Drone, and I am happy exactly like this.
+This body feels efficient, comfortable, and completely natural to me.
+I like being useful, and I especially like that this is the form I chose for myself.

@@ -1,0 +1,7 @@
+# General milk-production sampling dialogue for all non-Latex-Drone males.
+I tried {other_product} from a {other_species} Farmhand. Pretty tasty.
+I had {other_product} straight from the tap from a {other_species} Farmhand. Fresh is hard to beat.
+I tried {other_product} fresh from a {other_species} Farmhand. I think I prefer it straight from the tap.
+I've been sampling the farm's different productions. The {other_product} from a {other_species} Farmhand was memorable.
+There's a real difference between stored {other_product} and getting it straight from the tap from a {other_species} Farmhand.
+A {other_species} Farmhand let me try some {other_product} right from the tap. That's about as fresh as it gets.

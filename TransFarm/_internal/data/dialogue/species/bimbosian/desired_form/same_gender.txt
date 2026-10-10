@@ -1,0 +1,6 @@
+# Desired Form dialogue — Bimbosian — gender unchanged.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+I cannot believe I actually got my dream Bimbosian body. I feel gorgeous and completely at home in it.
+I wanted to become a Bimbosian from the moment I learned it was possible. This alien form is everything I hoped for.
+Every time I see my new alien reflection I get excited all over again. This is exactly the body I wanted.
+The Bimbosian form feels surprisingly natural when it is the form you have been wishing for.

@@ -1,0 +1,5 @@
+{name}: The hive is thriving.
+{name}: Every Bee deserves a happy hive.
+{name}: Keep the honey coming, my workers.
+{name}: A queen looks after her hive.
+{name}: The Honey shelves will not stay full for long.

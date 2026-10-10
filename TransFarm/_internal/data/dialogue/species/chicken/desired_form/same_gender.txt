@@ -1,0 +1,6 @@
+# Desired Form dialogue — Chicken — gender unchanged.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+Feathers, wings, little chicken noises—this is exactly the form I hoped for.
+Being a chicken feels strangely natural when it is the body you always wanted.
+I wanted this form so much that even preening my feathers is fun.
+My dream was to become a chicken, and now I finally get to live it.

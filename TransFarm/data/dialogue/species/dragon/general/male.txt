@@ -1,0 +1,6 @@
+# Male Dragon dialogue.
+# Edit this file independently from the other gender.
+Careful. I sneezed fire earlier.
+I think my scales are getting shinier.
+Being a dragon has its advantages.
+Doorways were definitely designed for smaller creatures.

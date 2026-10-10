@@ -1,0 +1,6 @@
+# Female Sheep lactation dialogue.
+I'm feeling very full under all this wool. I need to be milked soon.
+Sheep Milk production has been strong today; I'll be more comfortable after milking.
+I sampled some of my own Sheep Milk. It's pleasantly rich.
+I tried some {other_product} from a {other_species} Farmhand beside mine once. I can still tell which one I made.
+Between shearing and milking, I spend a lot of time being a very productive sheep.

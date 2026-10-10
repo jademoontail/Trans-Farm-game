@@ -1,0 +1,6 @@
+# Desired Form dialogue — Demon — gender changed.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+A demon body was my dream, and becoming {new_gender_lower} with it makes the whole transformation feel perfect.
+I traded my old {old_gender_lower} body for horns, a tail, and a {new_gender_lower} one. I absolutely love it.
+The demon form already felt right, but the gender change made it feel like mine.
+Every time I see this {new_gender_lower} demon in the mirror, I get another burst of excitement.

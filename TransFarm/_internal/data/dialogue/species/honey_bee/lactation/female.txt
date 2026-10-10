@@ -1,0 +1,7 @@
+# Female Honey Bee honey-production dialogue.
+My chest feels heavy with honey today. I really need to be milked soon.
+I can feel the honey building up again. Could we move my milking a little earlier?
+The hive is thriving, but I am definitely full. Being milked would be a relief.
+I sampled a little of my own honey after the last milking. Fresh from the hive really is different.
+I tried some {other_product} from a {other_species} Farmhand after a honey harvest once. Completely different, but both are good in their own way.
+All this honey has to come from somewhere, and right now my chest is telling me the jars are ready.

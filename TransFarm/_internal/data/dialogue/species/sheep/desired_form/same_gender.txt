@@ -1,0 +1,6 @@
+# Desired Form dialogue — Sheep — gender unchanged.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+This soft woolly sheep body is exactly the form I wanted.
+I always imagined being a sheep would feel comforting. I was right.
+The wool, ears and hooves all feel so natural when this is the body I hoped for.
+I wanted a sheep form, and now I catch myself smiling every time I see all this wool.

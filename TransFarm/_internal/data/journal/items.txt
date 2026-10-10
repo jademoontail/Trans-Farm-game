@@ -1,0 +1,68 @@
+# Trans-Farm Journal — Items
+# Format: [Entry Name] followed by the page text.
+
+[Personal Massager]
+A comfort item that gives +10 Happiness.
+
+For Male Farmhands it also provides a +10% Man Milk bonus.
+
+[Brown Collar]
+A basic collar that gives +10 Happiness.
+
+Only one collar can be equipped at a time because all collars use the same equipment slot.
+
+[Blue Collar]
+A better collar that gives +25 Happiness.
+
+Only one collar can be equipped at a time.
+
+[Pink Collar]
+A premium collar that gives +50 Happiness.
+
+Only one collar can be equipped at a time.
+
+[Cow Plushie]
+A gift that gives +15 Happiness.
+
+Cow Farmhands receive an additional +5 Happiness from the Cow Plushie.
+
+[Fancy Cowbell]
+A gift that gives +10 Happiness.
+
+It also provides a +5% bonus to species milk production.
+
+[Chocolate Hearts]
+A simple gift that gives +20 Happiness.
+
+[Fluffy Blanket]
+A comfort gift that gives +15 Happiness.
+
+[Pretty Uniform - Pink]
+A Pretty Uniform variant for ordinary Female Farmhands.
+
+It gives a +50% bonus to Livestreamer job earnings. Pretty Uniforms share one equipment slot.
+
+[Pretty Uniform - Blue]
+A Pretty Uniform variant for ordinary Female Farmhands.
+
+It gives a +50% bonus to Livestreamer job earnings. Pretty Uniforms share one equipment slot.
+
+[Pretty Uniform - Lavender]
+A Pretty Uniform variant for ordinary Female Farmhands.
+
+It gives a +50% bonus to Livestreamer job earnings. Pretty Uniforms share one equipment slot.
+
+[Support Gear - Green]
+Support Gear for ordinary Male Farmhands.
+
+It gives +5 Happiness, +10% Labor production, and a +50% Livestreamer job bonus.
+
+[Support Gear - Purple]
+Support Gear for ordinary Male Farmhands.
+
+It gives +5 Happiness, +10% Labor production, and a +50% Livestreamer job bonus.
+
+[Support Gear - Red]
+Support Gear for ordinary Male Farmhands.
+
+It gives +5 Happiness, +10% Labor production, and a +50% Livestreamer job bonus.

@@ -1,0 +1,3 @@
+{name}: Scales, eggs, and milk are all accounted for.
+{name}: Careful handling keeps dragon stock valuable.
+{name}: Dragon goods rarely sit in storage for long.

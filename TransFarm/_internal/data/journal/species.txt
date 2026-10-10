@@ -1,0 +1,85 @@
+# Trans-Farm Journal — Species
+# Format: [Entry Name] followed by the page text.
+# Edit freely; the game reads these sections at runtime.
+
+[Cow]
+Cows are one of the farm's most dependable transformation forms.
+
+Female Cows produce Cow Milk, while Male Cows produce Labor. Cow Milk is a basic dairy resource and can later be turned into Cheese through Cheesemaking research.
+
+Cows benefit from the Cow Room research, which increases Happiness for Cow Farmhands.
+
+[Chicken]
+Chickens are energetic Farmhands focused on Eggs and Feathers.
+
+Female Chickens produce Eggs and Feathers. Male Chickens produce Feathers.
+
+Eggs can be packed into A Dozen Eggs through the Egg Packing job, while Feathers remain a direct sale resource. Nesting Boxes improve Egg production.
+
+[Dragon]
+Dragons are valuable Farmhands with several high-value outputs.
+
+Female Dragons produce Dragon Milk, Eggs, and Scales. Male Dragons produce Scales.
+
+Scales can be turned into Jewelry through Jewelry Crafting. Dragon Milk can be turned into Draconic Cheese after Cheesemaking and Draconic Cheese research are unlocked.
+
+The Dragon Room increases Happiness for Dragon Farmhands.
+
+[Sheep]
+Sheep are wool-producing Farmhands with a strong crafting role.
+
+Female Sheep produce Wool and Sheep Milk. Male Sheep produce Wool.
+
+Wool can be turned into Sweaters through the Knitting job. Sheep Milk can be used to make Sheep Cheese after the proper specialty cheese research is unlocked.
+
+The Sheep Room increases Happiness for Sheep Farmhands.
+
+[Demon]
+Demons are a supernatural farm form with different roles by gender.
+
+Female Demons produce Demon Milk. Male Demons produce Labor.
+
+Demon Milk can be turned into Demonic Cheese after Cheesemaking and Demonic Cheese research are unlocked.
+
+Demon's Touch improves Man Milk production for Male Farmhands. The Demon Room increases Happiness for Demon Farmhands.
+
+[Goat]
+Goats are hardy Farmhands with dairy and labor roles.
+
+Female Goats produce Goat Milk. Male Goats produce Labor.
+
+Goat Milk can be turned into Goat Cheese after Cheesemaking and Goat Cheese research are unlocked.
+
+The Goat Room increases Happiness for Goat Farmhands.
+
+[Honey Bee]
+Honey Bees are a female-only transformation form unlocked through Honey Production.
+
+Honey Bees produce Honey. Milking Machine research also improves Honey production.
+
+Honey Bees can appear as Desired Form Volunteers only after Honey Production is unlocked. Eligible transformations are Female non-Trans Volunteers and Male Trans Volunteers. The resulting Honey Bee is always Female.
+
+A hired Honey Bee Queen Manager auto-sells Honey and gives ordinary Honey Bee Farmhands +50 Happiness. Bee Farmhand dialogue can also reference their Queen by name once she is hired.
+
+Hives provide specialized housing for Honey Bees. Each Hive houses up to 50 Honey Bees without using Apartment slots.
+
+[Latex Drone]
+Latex Drones are a special Male-or-Female farm form unlocked through Farm Drone research.
+
+Latex Drones produce Labor and remain fixed at exactly 200 Happiness. Their dialogue is always positive and agreeable.
+
+Each Latex Drone boosts the production of every other producing character by 5%. The bonus stacks additively. A Drone does not boost itself, but other Drones can boost it.
+
+Latex Drone Desired Form Volunteers can appear after Farm Drone research is unlocked.
+
+Drone Warehouses provide specialized housing for Latex Drones. Each Warehouse houses up to 50 Latex Drones without using Apartment slots.
+
+[Bimbosian]
+Bimbosians are an all-female alien people from the planet Bimbo.
+
+Their civilization was once bigender, but a gene-altering program intended to make Bimbosian women more attractive eventually caused the remaining males to transform into females. For the last ten years they have had no native source of the delicacy they call Man Milk.
+
+After Queen Xilarxia makes contact with Trans-Farm and is hired as a Manager, Bimbosian transformations become available for Volunteers. Bimbosians always transform into Female forms and produce both Labor and Alien Milk.
+
+Alien Milk can be used for Alien Cheese once Cheesemaking is available.
+

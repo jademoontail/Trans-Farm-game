@@ -1,0 +1,6 @@
+# Male Sheep dialogue.
+# Edit this file independently from the other gender.
+My wool is ridiculously soft today.
+I could really use a brushing.
+Baa— ...oh, come on.
+At least the cold doesn't bother me much anymore.

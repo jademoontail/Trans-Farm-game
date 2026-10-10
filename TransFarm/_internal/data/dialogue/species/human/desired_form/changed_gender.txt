@@ -1,0 +1,6 @@
+# Desired Form dialogue — Human — gender changed.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+I got to stay human and become {new_gender_lower} at the same time. This feels so much more like me.
+Seeing a {new_gender_lower} version of myself in the mirror still makes me grin.
+My ideal form was human, just not my old {old_gender_lower} body. This is exactly what I wanted.
+Keeping a human form while changing gender gave me the best possible result.

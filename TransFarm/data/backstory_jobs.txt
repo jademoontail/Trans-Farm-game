@@ -1,0 +1,9 @@
+# One former-job fragment per line.
+worked as a mechanic
+worked at a bakery
+worked in an office
+worked as a delivery driver
+worked at an animal shelter
+helped on a family farm
+worked in a garden center
+worked at a local diner

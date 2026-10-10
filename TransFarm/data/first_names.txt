@@ -1,0 +1,32 @@
+# One first name per line.
+# Blank lines and lines beginning with # are ignored.
+# Add more names, save this file, then restart Trans-Farm.
+Alex
+Jamie
+Morgan
+Taylor
+Jordan
+Casey
+Riley
+Avery
+Cameron
+Quinn
+Sam
+Rowan
+Skyler
+Robin
+Drew
+Jesse
+Bailey
+Parker
+Reese
+Charlie
+Emery
+Hayden
+Blake
+Dakota
+Sage
+Finley
+Harper
+Logan
+Elliot

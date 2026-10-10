@@ -1,0 +1,6 @@
+# Desired Form dialogue — Sheep — gender changed.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+I got my dream sheep form and a {new_gender_lower} body too. I feel fantastic.
+Leaving my old {old_gender_lower} body behind for this woolly {new_gender_lower} one feels wonderfully right.
+The sheep form was the dream, and becoming {new_gender_lower} made the result even better.
+I love this woolly body, and I love that the transformation let my gender change with it.

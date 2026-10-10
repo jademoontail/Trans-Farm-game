@@ -1,0 +1,6 @@
+# Male Latex Drone Man Milk dialogue.
+Man Milk production capacity is almost full.
+Man Milk production capacity has reached harvest readiness.
+Man Milk reservoir status: full. Harvest authorized.
+Man Milk output is stable. Collection is recommended at the next harvest interval.
+Production capacity at ninety percent. Harvest preparation advised.

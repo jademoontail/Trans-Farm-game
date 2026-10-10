@@ -1,0 +1,4 @@
+# {animal} is replaced with the volunteer's desired form in lowercase.
+Their long-standing connection to {animal}s made the farm's transformation work especially appealing.
+They have always felt a strong personal connection to {animal}s and secretly hope to become one.
+The possibility of taking on a {animal} form is the part of the program that excites them most.

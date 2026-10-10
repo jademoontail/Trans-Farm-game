@@ -1,0 +1,6 @@
+# Female Cow lactation dialogue.
+Moo... I'm feeling really full. I need to be milked soon.
+I can always tell when Cow Milk production has built up enough that it's time for milking.
+I sampled some of my own Cow Milk. Honestly, I understand why it sells so well.
+I tried some {other_product} from a {other_species} Farmhand next to my own once. Mine tastes richer to me, but maybe I'm biased.
+I'll be much more comfortable after I'm milked.

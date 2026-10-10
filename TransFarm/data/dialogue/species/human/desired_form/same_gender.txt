@@ -1,0 +1,6 @@
+# Desired Form dialogue — Human — gender unchanged.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+Staying human was exactly the form I wanted. I feel completely at home like this.
+I know it sounds simple, but being myself in a human body was always my ideal outcome.
+This is the body plan I wanted from the start, and I am glad the serum respected that.
+My desired form was human, and getting exactly that feels wonderfully reassuring.

@@ -1,0 +1,6 @@
+# Desired Form dialogue — Honey Bee — gender unchanged.
+# Supported placeholders: {species}, {species_lower}, {old_gender}, {new_gender}, {old_gender_lower}, {new_gender_lower}.
+This Honey Bee body is exactly the form I wanted. Even the wings feel natural.
+I dreamed about becoming a bee, and now every buzz of my wings makes me happy.
+The hive feels even more comforting when this is the body I always wanted.
+I love being a Honey Bee. The wings, antennae and whole form just feel right.
